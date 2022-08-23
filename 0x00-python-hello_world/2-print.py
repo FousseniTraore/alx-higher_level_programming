@@ -1,2 +1,2 @@
 #!/bin/bash
-print("\"hProgramming is like building a multilingual puzzle")
+print('\"hProgramming is like building a multilingual puzzle')
