@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+if __name__ = "__main__":
+    from calculator_1 import add, sub, mul
+    a = 10
+    b = 5
+    """ Addition function"""
+    print("{} + {} = {}".format(a, b, add(a, b)))
+    """ Substraction function """
+    print("{} - {} = {}".format(a, b, sub(a, b)))
+    """ Multiplication function"""
+    print("{} * {} = {}".format(a, b, mul(a, b)))
