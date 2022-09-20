@@ -3,4 +3,6 @@
 
 class Square:
     """This class defines a square"""
-    __size = 0
+    def __init__(self, size):
+       """doc"""
+       self.__size = size
