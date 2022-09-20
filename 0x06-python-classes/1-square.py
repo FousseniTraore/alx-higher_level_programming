@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!python
 """This is 1-square class"""
 
 class Square:
