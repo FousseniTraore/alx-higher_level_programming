@@ -3,4 +3,5 @@
 
 
 def only_diff_elements(set_1, set_2):
+    """return element specific to each set"""
     return (set_1) ^ (set_2)
