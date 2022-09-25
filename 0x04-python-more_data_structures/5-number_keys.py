@@ -4,4 +4,4 @@
 
 def number_keys(a_dictionary):
     """Return the length of the dictionary"""
-    return(len(a_dictionary)))
+    return(len(a_dictionary))
