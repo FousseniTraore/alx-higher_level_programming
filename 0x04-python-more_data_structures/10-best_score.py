@@ -3,7 +3,7 @@
 
 
 def best_score(a_dictionary):
-    """Returns a key with the biggest integer value."""
+    """return a key biggest"""
     if not isinstance(a_dictionary, dict) or len(a_dictionary) == 0:
         return None
 
@@ -14,4 +14,3 @@ def best_score(a_dictionary):
             big = v
             ret = k
     return (ret)
-
