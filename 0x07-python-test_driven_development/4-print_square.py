@@ -1,5 +1,7 @@
 #!/usr/bin/python3
+""" function that prints a square with the character #."""
 def print_square(size):
+    """Doc"""
     if not isinstance(size, int):
         raise TypeError("size must be an integer")
     elif size < 0:
