@@ -1,0 +1,1 @@
+This is the readme file of the 0x05-python-execptions project.
